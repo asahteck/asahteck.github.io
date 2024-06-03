@@ -1,5 +1,3 @@
-# Project Proposal
-
 Pitch: A projection-based tool for physical desktops to better visualize and translate measurements from computer-aided design (CAD). 
 
 This project can function as an assistive design tool for designers who cannot perceive 3D objects due to a variety of conditions (monoscopic vision/stereoblindness, lacking depth perception, aphantasia, other visual and perceptual impairments) and engages with addresing the accessibility gap in emerging VR/AR technologies.
