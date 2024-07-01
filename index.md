@@ -37,7 +37,11 @@ Lab: [Accessible Creative Technologies (ACT) Lab](https://actlab.sites.northeast
 
 ## About My Project
 
-Project description goes here.
+My project is in two parts, due to needing to take creative breaks from one or the other.
+
+1. Learning how to use [KnitScript](https://pypi.org/project/knit-script/) and the Shima Seiki Knitting Machine and creating documentation with sample code on how to get what you want in terms of swatches. A set of documented code "primitives" for swatches, ribs, tubes, increases, decreases, and types of lace would add more usability to the language and make it easier to get started.
+
+2. A projector tool for physical desktops to better visualize, translate, and adjust measurements from computer-aided design (CAD). [Read more here](https://asahteck.github.io/project-proposal/)
 
 [My Final Report](files/finalreport.pdf)
 
